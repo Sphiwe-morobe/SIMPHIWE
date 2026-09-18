@@ -1,0 +1,145 @@
+ The Daily Loaf Bakery Website
+
+1. Project Overview
+
+The Daily Loaf Bakery is a bakery website designed to provide customers
+with information about the bakery, its products and services.
+
+The website has been designed with a warm and welcoming bakery theme
+using light beige, warm cream and cream colours.
+
+2. Purpose of the Website
+
+The purpose of the website is to:
+
+- Introduce The Daily Loaf Bakery to customers.
+- Display the bakery's products and menu.
+- Provide information about the bakery.
+- Allow customers to make enquiries.
+- Provide contact information.
+- Show the bakery location using a map.
+- Create a professional online presence for the business.
+
+ 3. Website Pages
+
+The website consists of the following pages:
+
+ Home
+The Home page introduces The Daily Loaf Bakery and contains a
+welcome section, bakery image, navigation buttons and information
+about the bakery.
+
+About
+The About page provides information about The Daily Loaf Bakery,
+its background, values and services.
+Menu
+The Menu page displays the bakery products and their prices.
+Customers can select products and add them to the cart.
+
+Enquiry
+The Enquiry page allows customers to submit an enquiry about
+products, custom cakes or special orders.
+
+Contact
+The Contact page provides the bakery's contact details, opening
+hours and location map.
+
+4. Technologies Used
+
+The website was developed using:
+
+- HTML5
+- CSS3
+- Google Maps
+- Web browser
+
+HTML was used to create the structure and content of the website.
+CSS was used to style the pages, colours, layout, buttons, images
+and navigation.
+
+5. Website Design
+
+The website uses a bakery-inspired colour scheme consisting of:
+
+- Light Beige
+- Warm Cream
+- Cream
+- Soft Golden Brown
+
+The colours were selected to create a warm and welcoming appearance
+that suits a bakery business.
+
+6. Images
+
+Images are used throughout the website to make the pages more
+visually appealing.
+
+The main bakery logo is stored in the images folder:
+
+    images/Bakery Logo.jpg.jpg
+
+The main bakery image is stored in:
+
+    images/bakery.jpg
+
+7. Navigation
+
+The main navigation menu contains five pages:
+
+- Home
+- About
+- Menu
+- Enquiry
+- Contact
+
+Each page is connected using HTML hyperlinks.
+
+8. Contact Map
+
+The Contact page contains an embedded map to help visitors identify
+the bakery's location.
+
+The map is displayed using an iframe.
+9. Website Folder Structure
+
+The project is organised as follows:
+
+    The-Daily-Loaf-Bakery/
+    |
+    |-- index.html
+    |-- about.html
+    |-- menu.html
+    |-- enquiry.html
+    |-- contact.html
+    |-- style.css
+    |
+    |-- images/
+    |   |-- Bakery Logo.jpg.jpg
+    |   |-- bakery.jpg
+    |
+    |-- README.md
+
+ 10. Conclusion
+
+The Daily Loaf Bakery website provides customers with an easy way
+to learn about the bakery, view its menu, make enquiries and find
+contact information.
+
+The website uses a simple, professional and user-friendly design
+with consistent colours and navigation across the pages.
+
+References
+
+Mozilla Developer Network (MDN) (n.d.) HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML (Accessed: 17 September 2026).
+
+Mozilla Developer Network (MDN) (n.d.) Semantic HTML. Available at: https://developer.mozilla.org/en-US/curriculum/core/semantic-html/ (Accessed: 17 September 2026).
+
+Mozilla Developer Network (MDN) (n.d.) Forms and buttons in HTML. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_forms (Accessed: 17 September 2026).
+
+Mozilla Developer Network (MDN) (n.d.) Images, media, and form elements. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Images_media_forms (Accessed: 17 September 2026).
+
+Google for Developers (n.d.) The Maps Embed API quickstart. Available at: https://developers.google.com/maps/documentation/embed/quickstart (Accessed: 17 September 2026).
+
+Google for Developers (n.d.) Embed a map. Available at: https://developers.google.com/maps/documentation/embed/embedding-map (Accessed: 17 September 2026).
+
+These references support the HTML structure, forms, image handling, and map embedding used in your project. Google documents map embedding through an iframe, while MDN documents HTML structure, forms and image styling.
